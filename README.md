@@ -19,3 +19,4 @@
 详情参考文
 章:[京东定时签到-GitHub 实现](https://ruicky.me/2020/06/05/jd-sign/)
 
+![Github JD-sign bot](https://github.com/3360891395/jd_sign_bot/workflows/Github%20JD-sign%20bot/badge.svg?event=check_run)
